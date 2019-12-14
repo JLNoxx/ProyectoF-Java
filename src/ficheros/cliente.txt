@@ -1,0 +1,3 @@
+Alonso;Arenas Leaño;70803116;5273212;Mz.A Lote4;Perú;Lima;Carbayllo;
+Renzo;Medrano Condori;45621497;5363642;Mz.B Lote7;Argentina;Buenos Aires;Tucumán;
+Bryan;Albites Mendoza;25463156;3546541;Mz.R Lote.8;Chile;San Luis;La Molina;
